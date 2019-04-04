@@ -11,11 +11,7 @@ Bookmarks bar
 
 [NASA Food Truck Corral - Home](https://www.facebook.com/NASA-Food-Truck-Corral-493247744194968/)
 
-[Huntsville, AL (35801) Forecast | Weather Underground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=huntsville%2C+al)
-
-[Jira - IVV My Open Issues](https://jira.di2e.net/projects/IVV/issues/?filter=myopenissues)
-
-[RDL Bitbucket](https://bitbucket.di2e.net/projects/rdl)
+[Forecast | Weather Underground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=huntsville%2C+al)
 
 [Basic UVM | Verification Academy](https://verificationacademy.com/courses/basic-uvm)
 
@@ -31,8 +27,6 @@ Trello Boards
 
 IT
 ------------
-[SSDD-CS - Find AMRDEC Mission Support specific guidance](https://iteams.amrdec.army.mil/sites/SSDD-IA/Cybersecurity%20Workforce%20Page/Find%20AMRDEC%20Mission%20Support%20specific%20guidance.aspx)
-
 [Unclassified/FOUO Army Training and Certification Tracking System](https://atc.us.army.mil/iastar/index.php)
 
 Solutions
