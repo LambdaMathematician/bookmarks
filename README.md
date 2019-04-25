@@ -41,3 +41,4 @@ Misc
 
 [GitHub - howerj/forth-cpu: A Forth CPU and System on a Chip, based on the J1, written in VHDL](https://github.com/howerj/forth-cpu)
 
+[QuickCheck halp](https://deque.blog/2017/02/03/code-your-own-quickcheck/)
